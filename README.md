@@ -17,6 +17,7 @@ In each of the folders there are 4 videos, regarding all the conditions we consi
 3) Monomodal tracking:  the desired density to achieve is a time varying monomodal von mises function;
 4) Multimodal tracking: the desired density to achieve is a time varying multimodal von mises function;
 
+Moreover we report the CAD model of the differential drive robot in the folder "differential_drive_robot_CAD"
 
 For any information, please contact one of the authors.
 
